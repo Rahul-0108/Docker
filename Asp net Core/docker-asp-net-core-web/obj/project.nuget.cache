@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZrOTnasq8K8k+JKlBsY0YqYYy5SARXfTGwJfRKmolf540mm7HlOiWAZ0cEL4ey2ebHmGJ6EUd4Jb/inxfVnQIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Docker\\Asp net Core\\docker-asp-net-core-web\\docker-asp-net-core-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul.Jaiswal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

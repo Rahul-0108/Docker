@@ -1,0 +1,7 @@
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\docker-asp-net-core-web.exe
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\docker-asp-net-core-web.dll
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\docker-asp-net-core-web.deps.json
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\docker-asp-net-core-web.runtimeconfig.json
+D:\Docker\Asp net Core\docker-asp-net-core-web\obj\Release\net6.0\PubTmp\Out\docker-asp-net-core-web.pdb
